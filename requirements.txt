@@ -1,0 +1,8 @@
+customtkinter
+yt-dlp
+python-vlc
+mutagen
+Pillow
+keyboard
+mouse
+pyinstaller
